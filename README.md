@@ -12,7 +12,7 @@ It has been tested on **Ubuntu 24.04**.
 ## Installation
 
 ```bash
-sudo apt update && rm -rf install.py && wget -qO install.py https://https://github.com/TWCIPTV/XTREAM-UI-MAIN-auto-installer-/upload/main/main/install.py && sudo python3 install.py
+sudo apt update && rm -rf install.py && wget -qO install.py https://github.com/TWCIPTV/XTREAM-UI-MAIN-auto-installer-/upload/main/install.py && sudo python3 install.py
 ```
 
 ## Acknowledgements
